@@ -52,5 +52,5 @@
 <a href="mailto:abdulhadi.slow@gmail.com"><img src="https://img.shields.io/badge/-abdulhadi.slow@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/hadi.official1"><img src="https://img.shields.io/badge/-@hadi.official1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/hadibintariq"><img src="https://img.shields.io/badge/-@hadibintariq-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~0168a42ef3582edf01"><img src="https://img.shields.io/badge/-@hadibintariq-1877F2?style=flat&logo=Upwork&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~0168a42ef3582edf01"><img src="https://img.shields.io/badge/-@upwork-1877F2?style=flat&logo=Upwork&logoColor=white"/></a>
 </p>

@@ -7,7 +7,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💡 &nbsp;Currently working as Full Stack Developer exploring JamStack technologies and PWAs to provide Fast, Scalable, Secure! headless solutions to companies.\
-🎓 &nbsp;I'm currently pursuing Masters in Data Science from Information Technology University.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Game Development, Blog Writing and Teach Programming.\
 💬 &nbsp;Planning out to start some youtube series but always up for new ideas and collaborative projects. Feel free to reach me out for discussions.\

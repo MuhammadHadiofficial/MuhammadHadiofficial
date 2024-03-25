@@ -5,6 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;Top-rated upwork freelancer providing development and deep learning services.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💡 &nbsp;Currently working as Full Stack Developer exploring JamStack technologies and PWAs to provide Fast, Scalable, Secure! headless solutions to companies.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\

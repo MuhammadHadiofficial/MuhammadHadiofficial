@@ -7,12 +7,9 @@
 💡 &nbsp;Proven all round experience working with startups.\
 💡 &nbsp;Top-rated upwork freelancer providing development and deep learning services.\
 🌏 &nbsp;Checkout my cool portfolio at ![m-hadi.com](https://m-hadi.com).\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💡 &nbsp;Currently working as Full Stack Developer exploring JamStack technologies and PWAs to provide Fast, Scalable, Secure! headless solutions to companies.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I love talking & writing about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Game Development, Blog Writing and Teach Programming.\
-💬 &nbsp;Planning out to start some youtube series but always up for new ideas and collaborative projects. Feel free to reach me out for discussions.\
-✉️ &nbsp;You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 

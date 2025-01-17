@@ -1,10 +1,10 @@
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width='40' align="left"/><h2>Hey there! I'm Hadi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+💡 &nbsp;Proven all round experience working with startups.\
 💡 &nbsp;Top-rated upwork freelancer providing development and deep learning services.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 💡 &nbsp;Currently working as Full Stack Developer exploring JamStack technologies and PWAs to provide Fast, Scalable, Secure! headless solutions to companies.\
@@ -53,7 +53,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/muhammadhaditariq"><img src="https://img.shields.io/badge/-muhammadhaditariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://m-hadi.com"><img src="https://img.shields.io/badge/-muhammadhaditariq-0077B5?style=flat&logo=Site&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammadhaditariq"><img src="https://img.shields.io/badge/-muhammadhaditariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:abdulhadi.slow@gmail.com"><img src="https://img.shields.io/badge/-abdulhadi.slow@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/hadi.official1"><img src="https://img.shields.io/badge/-@hadi.official1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/hadibintariq"><img src="https://img.shields.io/badge/-@hadibintariq-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>

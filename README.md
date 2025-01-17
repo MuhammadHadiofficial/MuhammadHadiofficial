@@ -6,7 +6,7 @@
 
 💡 &nbsp;Proven all round experience working with startups.\
 💡 &nbsp;Top-rated upwork freelancer providing development and deep learning services.\
-🌏 &nbsp;Checkout my cool portfolio at ![m-hadi.com](https://m-hadi.com).\
+🌏 &nbsp;Checkout my cool portfolio at <a href="https://m-hadi.com">m-hadi.com</a>.\
 🌱 &nbsp;I love talking & writing about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Game Development, Blog Writing and Teach Programming.\
 ✉️ &nbsp;You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.

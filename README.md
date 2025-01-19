@@ -3,14 +3,15 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;Proven all round experience working with startups.\
-💡 &nbsp;Top-rated upwork freelancer providing development and deep learning services.\
-🌏 &nbsp;Checkout my cool portfolio at <a href="https://m-hadi.com">m-hadi.com</a>.\
-🌱 &nbsp;I love talking & writing about Machine Learning, Deep Learning,Big Data, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Game Development, Blog Writing and Teach Programming.\
-✉️ &nbsp;You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+💡 &nbsp; Proven all-round experience working with startups.\
+🌏 &nbsp; If you are here don't miss out on my cool portfolio and blog at <a href="https://m-hadi.com">m-hadi.com</a>.\
+💡 &nbsp; Top-rated upwork freelancer providing development and deep learning services.\
+🌱 &nbsp; I like working on different problems hence belong to a community of programmers who prefer generalization over specialization.\
+🌱 &nbsp; I love talking & writing about Machine Learning, Deep Learning, Big Data, Systems Design, and Cloud Architecture.\
+✍️ &nbsp; In my free time, I pursue Game Development, Blog Writing, and Teach Programming (50+ workshops delivered during Undergrad & Grad).\
+✍️ &nbsp;.I play soccer ⚽ and volleyball 🏐.\
+✉️ &nbsp; You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.
+📄 &nbsp; Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/muhammadhadiofficial/my-stack)

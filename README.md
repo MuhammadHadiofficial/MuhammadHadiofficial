@@ -18,8 +18,8 @@
 - Systems design and optimization
 
 🚀 &nbsp; Current Projects:
-- Building scalable ML pipelines on cloud infrastructure
-- Contributing to open-source ML frameworks
+- Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com) 
+- Contributing to open-source projects at Matrix Synapse
 - Technical blog at [m-hadi.com](https://m-hadi.com) covering ML, systems design, and software architecture
 
 🌱 &nbsp; Always learning and exploring:

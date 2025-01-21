@@ -86,8 +86,8 @@
 
 <p align="center">
 <a href="https://github.com/MuhammadHadiofficial">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadHadiofficial&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadHadiofficial&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadHadiofficial&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadHadiofficial&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadHadiofficial&theme=juicyfresh&no-bg=true" />
 </a>
 </p>
 

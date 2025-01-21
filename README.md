@@ -1,18 +1,40 @@
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width='40' align="left"/><h2>Hey there! I'm Hadi</h2>
 
+## 👨🏻‍💻 About Me
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp; Proven all-round experience working with startups.\
-🌏 &nbsp; If you are here don't miss out on my cool portfolio and blog at <a href="https://m-hadi.com">m-hadi.com</a>.\
-💡 &nbsp; Top-rated upwork freelancer providing development and deep learning services.\
-🌱 &nbsp; I like working on different problems hence belong to a community of programmers who prefer generalization over specialization.\
-🌱 &nbsp; I love talking & writing about Machine Learning, Deep Learning, Big Data, Systems Design, and Cloud Architecture.\
-✍️ &nbsp; In my free time, I pursue Game Development, Blog Writing, and Teach Programming (50+ workshops delivered during Undergrad & Grad).\
-✍️ &nbsp;.I play soccer ⚽ and volleyball 🏐.\
-✉️ &nbsp; You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.
-📄 &nbsp; Please have a look at my [Resume](https://drive.google.com/file/d/1USacQtmMz0UFoEOFU6vqwgf5Xy_iTp8s/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp; Recent Computer Science graduate from [IndianaTech] with a strong foundation in software engineering and machine learning.
 
+💼 &nbsp; Professional Experience:
+- Full-stack developer with proven track record in startup environments
+- Top-rated Upwork freelancer specializing in ML/DL solutions
+- Led 50+ technical workshops on programming and systems design
+- Delivered multiple production-ready applications using modern tech stacks
+
+🔬 &nbsp; Technical Focus:
+- Machine Learning & Deep Learning systems at scale
+- Distributed systems and cloud architecture
+- Full-stack web development with modern frameworks
+- Systems design and optimization
+
+🚀 &nbsp; Current Projects:
+- Building scalable ML pipelines on cloud infrastructure
+- Contributing to open-source ML frameworks
+- Technical blog at [m-hadi.com](https://m-hadi.com) covering ML, systems design, and software architecture
+
+🌱 &nbsp; Always learning and exploring:
+- Advanced ML/DL architectures
+- Cloud-native technologies
+- System design patterns
+- Game development (side projects)
+
+### 📫 Let's Connect!
+- Portfolio & Blog: [m-hadi.com](https://m-hadi.com)
+- Email: abdulhadi.slow@gmail.com
+- [Resume](https://drive.google.com/file/d/1USacQtmMz0UFoEOFU6vqwgf5Xy_iTp8s/view?usp=sharing)
+
+---
+⚡ Fun fact: I'm an avid soccer ⚽ and volleyball 🏐 player when not coding!
 # 🛠 Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/)
 
 ### 🔤 Programming Languages

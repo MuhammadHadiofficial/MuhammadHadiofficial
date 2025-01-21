@@ -11,7 +11,7 @@
 ✍️ &nbsp; In my free time, I pursue Game Development, Blog Writing, and Teach Programming (50+ workshops delivered during Undergrad & Grad).\
 ✍️ &nbsp;.I play soccer ⚽ and volleyball 🏐.\
 ✉️ &nbsp; You can shoot me an email at abdulhadi.slow@gmail.com! I'll try to respond as soon as I can.
-📄 &nbsp; Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp; Please have a look at my [Resume](https://drive.google.com/file/d/1USacQtmMz0UFoEOFU6vqwgf5Xy_iTp8s/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 
 ### 🛠 &nbsp;Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/muhammadhadiofficial/my-stack)

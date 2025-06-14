@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 &nbsp; Recent Computer Science graduate from [IndianaTech] with a strong foundation in software engineering and machine learning.
+🎓 &nbsp; Computer Science graduate from IndianaTech with a strong foundation in software engineering and machine learning.
 
 💼 &nbsp; Professional Experience:
 - Full-stack developer with proven track record in startup environments

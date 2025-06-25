@@ -1,9 +1,7 @@
 
 <img alt="Night Coding" src="https://avatars.githubusercontent.com/u/31585104?v=4" width='40' align="left"/><h2>Hey there! I'm Hadi</h2>
 
-## 👨🏻‍💻 About Me
-
-🎓 &nbsp; Computer Science graduate from IndianaTech with a strong foundation in software engineering practces for machine learning.
+🎓 &nbsp; Computer Science graduate from IndianaTech and Information Technology University with a strong foundation in software engineering practces for machine learning.
 
 
 🔬 &nbsp; Technical Focus 2025:

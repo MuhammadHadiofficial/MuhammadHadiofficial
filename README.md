@@ -11,8 +11,10 @@
 - Implement state of the art LLM architectures from scratch
 
 🚀 &nbsp; Current Projects:
-- Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com) 
-- Contributing to open-source projects at Matrix Synapse
+- Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com)
+- Integrating intelligence at law firms for call analytics with AI agents
+- Automating HR at [kikoAI](https://kikoai.com)
+- Contributing to open-source projects at [Matrix Synapse](https://matrix.org/)
 - Technical blog at [m-hadi.com](https://m-hadi.com) covering ML, systems design, and software architecture
 
 🌱 &nbsp; Always learning and exploring:

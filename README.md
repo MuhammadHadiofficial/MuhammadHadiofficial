@@ -8,6 +8,7 @@
 - Machine Learning & Deep Learning systems at scale
 - Distributed systems and cloud architecture
 - Fine-tuning vllms for Saas offerings for vision, audio and medical reasoning
+- Implement state of the art LLM architectures from scratch
 
 🚀 &nbsp; Current Projects:
 - Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com) 
@@ -18,7 +19,6 @@
 - Advanced ML/DL architectures
 - Cloud-native technologies
 - System design patterns
-- Game development (side projects)
 
 ### 📫 Let's Connect!
 - Portfolio & Blog: [m-hadi.com](https://m-hadi.com)

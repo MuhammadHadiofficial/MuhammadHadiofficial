@@ -3,19 +3,13 @@
 
 ## 👨🏻‍💻 About Me
 
-🎓 &nbsp; Computer Science graduate from IndianaTech with a strong foundation in software engineering and machine learning.
+🎓 &nbsp; Computer Science graduate from IndianaTech with a strong foundation in software engineering practces for machine learning.
 
-💼 &nbsp; Professional Experience:
-- Full-stack developer with proven track record in startup environments
-- Top-rated Upwork freelancer specializing in ML/DL solutions
-- Led 50+ technical workshops on programming and systems design
-- Delivered multiple production-ready applications using modern tech stacks
 
-🔬 &nbsp; Technical Focus:
+🔬 &nbsp; Technical Focus 2025:
 - Machine Learning & Deep Learning systems at scale
 - Distributed systems and cloud architecture
-- Full-stack web development with modern frameworks
-- Systems design and optimization
+- Fine-tuning vllms for Saas offerings for vision, audio and medical reasoning
 
 🚀 &nbsp; Current Projects:
 - Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com) 
@@ -34,7 +28,6 @@
 - [Resume](https://drive.google.com/file/d/1USacQtmMz0UFoEOFU6vqwgf5Xy_iTp8s/view?usp=sharing)
 
 ---
-⚡ Fun fact: I'm an avid soccer ⚽ and volleyball 🏐 player when not coding!
 # 🛠 Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/)
 
 ### 🔤 Programming Languages
@@ -43,8 +36,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🎯 Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -76,12 +67,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

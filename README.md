@@ -52,7 +52,7 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Data
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -60,6 +60,11 @@
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=white)
+![MLflow](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=white)
+![Kestra](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=white)
+![langgraph](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=red)
+![dbt](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=red)
+![Ray](https://img.shields.io/badge/-LangChain-339933?style=flat&logo=chainlink&logoColor=red)
 
 ### ☁️ DevOps & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)

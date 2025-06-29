@@ -14,7 +14,7 @@
 - Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com)
 - Integrating intelligence at law firms for call analytics with AI agents
 - Automating HR at [kikoAI](https://kikoai.com)
-- Contributing to open-source projects at [Matrix Synapse](https://matrix.org/)
+- Contributing to open-source projects at [Matrix Synapse](https://matrix.org/) & [Roboflow](https://roboflow.com/)
 - Technical blog at [m-hadi.com](https://m-hadi.com) covering ML, systems design, and software architecture
 
 🌱 &nbsp; Always learning and exploring:

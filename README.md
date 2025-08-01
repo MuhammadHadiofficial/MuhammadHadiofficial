@@ -1,14 +1,15 @@
 
 <img alt="Night Coding" src="https://avatars.githubusercontent.com/u/31585104?v=4" width='40' align="left"/><h2>Hey there! I'm Hadi</h2>
 
-🎓 &nbsp; Computer Science graduate from IndianaTech and Information Technology University with a strong foundation in software engineering practces for machine learning.
+🎓 &nbsp; Computer Science graduate from IndianaTech and Information Technology University with a strong foundation as an AI Engineer.
 
-
+🔬 &nbsp; Technical Focus 2026:
+- Help 5+ companies with getting their AI transformation strategy ready (1/5) (Refer to my linkedin to see how I did that)
 🔬 &nbsp; Technical Focus 2025:
-- Machine Learning & Deep Learning systems at scale
-- Distributed systems and cloud architecture
-- Fine-tuning vllms for Saas offerings for vision, audio and medical reasoning
-- Implement state of the art LLM architectures from scratch
+- Machine Learning & Deep Learning systems at scale :white_check_mark:
+- Distributed systems and cloud architecture :white_check_mark:
+- Fine-tuning vllms for Saas offerings for vision, audio and medical reasoning :white_check_mark:
+- Implement state of the art LLM architectures from scratch :white_check_mark:
 
 🚀 &nbsp; Current Projects:
 - Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com)

@@ -4,17 +4,16 @@
 🎓 &nbsp; Computer Science graduate from IndianaTech and Information Technology University with a strong foundation as an AI Engineer.
 
 🔬 &nbsp; Technical Focus 2026:
-- Help 5+ companies with getting their AI transformation strategy ready (1/5) (Refer to my linkedin to see how I did that)
-
+- Help 5+ companies with getting their AI transformation strategy ready (1/5) (Refer to my LinkedIn to see how I did that)
   
 🔬 &nbsp; Technical Focus 2025:
 - Machine Learning & Deep Learning systems at scale :white_check_mark:
 - Distributed systems and cloud architecture :white_check_mark:
-- Fine-tuning vllms for Saas offerings for vision, audio and medical reasoning :white_check_mark:
-- Implement state of the art LLM architectures from scratch :white_check_mark:
+- Fine-tuning VLLMs for Saas offerings for vision, audio, and medical reasoning :white_check_mark:
+- Implement state-of-the-art LLM architectures from scratch :white_check_mark:
 
 🚀 &nbsp; Current Projects:
-- Building scalable AI Agentic chat collobaration features at [Sociail](https://sociail.com)
+- Building scalable AI Agentic chat collaboration features at [Sociail](https://sociail.com)
 - Integrating intelligence at law firms for call analytics with AI agents
 - Automating HR at [kikoAI](https://kikoai.com)
 - Contributing to open-source projects at [Matrix Synapse](https://matrix.org/) & [Roboflow](https://roboflow.com/)

@@ -5,6 +5,8 @@
 
 🔬 &nbsp; Technical Focus 2026:
 - Help 5+ companies with getting their AI transformation strategy ready (1/5) (Refer to my linkedin to see how I did that)
+
+  
 🔬 &nbsp; Technical Focus 2025:
 - Machine Learning & Deep Learning systems at scale :white_check_mark:
 - Distributed systems and cloud architecture :white_check_mark:

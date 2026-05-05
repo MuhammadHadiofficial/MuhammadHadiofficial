@@ -4,7 +4,7 @@
 🎓 &nbsp; Computer Science graduate from IndianaTech and Information Technology University with a strong foundation as an AI Engineer.
 
 🔬 &nbsp; Technical Focus 2026:
-- Help 5+ companies with getting their AI transformation strategy ready (1/5) (Refer to my LinkedIn to see how I did that)
+- Help 5+ companies with getting their AI transformation strategy ready (2/5 as of May 2026) (Refer to my LinkedIn to see how I did that)
   
 🔬 &nbsp; Technical Focus 2025:
 - Machine Learning & Deep Learning systems at scale :white_check_mark:
